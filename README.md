@@ -1,4 +1,4 @@
-# M5 - Kenzie Buster
+# M5 - Buster Movie
 
 ## Preparando ambiente para execução dos testes
 
